@@ -1,24 +1,20 @@
 # Projeto-Labefy
 Segue meu projeto feito no curso fullStack Labenu. A ideia era usar uma API para buscar dados e criar uma playlist com músicas do Spotify
 
-### LABEFY
+## LABEFY
 
 
-O que funciona
-Criação de Playlist
-Criação de Músicas em Playlist de escolha
-Apaga Música
-Apaga Playlist
-Mostra Playlist Atualizada
-Mostra Lista de Musica atualizada
-Layout do Spotify
-Criação do Logo Labefy (Criação Própria)
-Player de Video do Youtube
-Lista de música convertida para iframe padronizado do youtube
-
-### O que não funciona
-Não fiz o desafio
-
+### O que funciona
+- Criação de Playlist
+- Criação de Músicas em Playlist de escolha
+- Apaga Música
+- Apaga Playlist
+- Mostra Playlist Atualizada
+- Mostra Lista de Musica atualizada
+- Layout do Spotify
+- Criação do Logo Labefy (Criação Própria)
+- Player de Video do Youtube
+- Lista de música convertida para iframe padronizado do youtube
 
 ### Link Surge
 [labefy-luanwallace.surge.sh](https://labefy-luanwallace.surge.sh)
